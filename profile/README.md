@@ -8,16 +8,6 @@ This project is developed as part of the **Capstone Project for Bangkit 2024 Bat
 
 AiReal is dedicated to revolutionizing the eCommerce landscape by integrating AI capabilities into mobile shopping applications. Our core feature is image blurriness detection, which helps merchants maintain the highest quality standards for product images, leading to better customer experiences and increased sales.
 
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technology Stack](#technology-stack)
-- [Team](#team)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-
 ## 🚀 Features
 
 - **Image Blurriness Detection**: Automatically detects and flags blurry images to ensure product listings are clear and attractive.
