@@ -13,7 +13,6 @@ AiReal is dedicated to revolutionizing the eCommerce landscape by integrating AI
 - **Image Blurriness Detection**: Automatically detects and flags blurry images to ensure product listings are clear and attractive.
 - **User-Friendly Interface**: Intuitive and easy-to-navigate UI/UX design for a seamless shopping experience.
 - **High Performance**: Optimized for fast loading times and smooth performance on various mobile devices.
-- **Secure Transactions**: Implements industry-standard security measures for safe and secure transactions.
 
 ## 📱 Usage
 
